@@ -1,0 +1,13 @@
+div {
+  width: 120px;
+}
+
+div div {
+  width: 40px;
+  height: 40px;
+  outline: 1px solid;
+  float: left;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 40px;
+}
